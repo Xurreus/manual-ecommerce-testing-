@@ -1,4 +1,4 @@
-# Test Cases — Ecommerce Website
+# Test Cases Ecommerce Website
 
 ## 1. User Registration
 | ID | Title | Steps | Expected Result |
