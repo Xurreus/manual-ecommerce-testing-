@@ -1,4 +1,4 @@
-# Manual Testing Project — Ecommerce Website
+# Manual Testing Project Ecommerce Website
 
 This repository contains a complete manual QA testing project for a demo Ecommerce website.  
 The project includes a test plan, strategy, checklists, detailed test cases, and bug reports.
