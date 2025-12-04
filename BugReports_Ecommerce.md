@@ -1,6 +1,6 @@
 # Bug Reports Ecommerce Website
 
-## BUG_001 — Cart does not update after removing product
+## BUG_001 Cart does not update after removing product
 **Severity:** Major  
 **Steps:**  
 1. Add product to cart  
@@ -11,7 +11,7 @@
 
 ---
 
-## BUG_002 — Search returns irrelevant items
+## BUG_002  Search returns irrelevant items
 **Severity:** Medium  
 **Steps:** Search "Keyboard"  
 **Expected:** Only keyboard products  
@@ -19,7 +19,7 @@
 
 ---
 
-## BUG_003 — Wrong password error message not displayed
+## BUG_003  Wrong password error message not displayed
 **Severity:** High  
 **Steps:** Login → enter wrong password  
 **Expected:** “Invalid password”  
